@@ -1,0 +1,17 @@
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\bin\Debug\net8.0-windows\SecureRecycleBin.exe
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\bin\Debug\net8.0-windows\SecureRecycleBin.deps.json
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\bin\Debug\net8.0-windows\SecureRecycleBin.runtimeconfig.json
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\bin\Debug\net8.0-windows\SecureRecycleBin.dll
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\bin\Debug\net8.0-windows\SecureRecycleBin.pdb
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\SecureRecycleBin.csproj.AssemblyReference.cache
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\SecureRecycleBin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\SecureRecycleBin.AssemblyInfoInputs.cache
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\SecureRecycleBin.AssemblyInfo.cs
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\SecureRecycleBin.csproj.CoreCompileInputs.cache
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\SecureRe.E48CF565.Up2Date
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\SecureRecycleBin.dll
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\refint\SecureRecycleBin.dll
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\SecureRecycleBin.pdb
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\SecureRecycleBin.genruntimeconfig.cache
+C:\Users\David\RiderProjects\SecureRecycleBin\SecureRecycleBin\obj\Debug\net8.0-windows\ref\SecureRecycleBin.dll

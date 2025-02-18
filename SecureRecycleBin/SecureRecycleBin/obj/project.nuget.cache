@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VJJzHGAjWro=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\RiderProjects\\SecureRecycleBin\\SecureRecycleBin\\SecureRecycleBin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
