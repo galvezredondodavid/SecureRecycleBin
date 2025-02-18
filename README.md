@@ -1,7 +1,7 @@
 # 🔒 **SecureRecycleBin** 🔒
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/069555af-20e1-40b6-aa1b-291eb2d5e858" />
+  <img src="https://github.com/user-attachments/assets/809c489f-78f9-419e-a62b-52d32e2e4c48" />
 </p>
 
 SecureRecycleBin randomizes file data before deletion, ensuring it cannot be recovered. Permanently erase files with confidence.
